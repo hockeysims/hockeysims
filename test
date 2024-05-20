@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Hockey League</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        main {
+            padding: 1rem;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Hockey League</h1>
+    </header>
+    <main>
+        <p>Welcome to the My Hockey League website! Here you can find all the latest updates and results of our simulated hockey league.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Hockey League. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 
