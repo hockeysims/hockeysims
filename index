@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hockey League Simulation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hockey League Simulation</h1>
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="equipes.html">Équipes</a>
+            <a href="calendrier.html">Calendrier</a>
+            <a href="resultats.html">Résultats</a>
+            <a href="classements.html">Classements</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Bienvenue dans la simulation de ligue de hockey</h2>
+        <p>Découvrez les équipes, les matchs et les résultats de notre ligue de hockey simulée.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Hockey League Simulation. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
